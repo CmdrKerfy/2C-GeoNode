@@ -8,8 +8,8 @@
     - setup:
   vars:
     app_name: state_2c_geonode
-    github_user: state-hiu 
-    server_name: 35.166.7.20 
+    github_user: CmdrKerfy 
+    server_name: 34.207.144.71 
     repo_name: 2C-GeoNode
     deploy_user: ubuntu
   roles:
